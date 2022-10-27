@@ -1,0 +1,15 @@
+section {
+    width: 300px;
+    padding: 50px;
+    margin-left: 30%;
+    margin-top: 10%;
+    border-top-style: dotted; 
+    border-right-style: dashed; 
+    border-bottom-style: solid; 
+    border-left-style: double; 
+    border-width: 8px;
+    border-top-color: green;
+    border-left-color: black;
+    border-right-color: blue;
+    border-bottom-color: red;
+}
